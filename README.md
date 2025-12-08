@@ -25,9 +25,8 @@
 
 -   **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
 -   **Backend:** Node.js, Express.js, Python, PHP
--   **Databases:** MongoDB, PostgreSQL, MySQL
+-   **Databases:** MongoDB, MySQL
 -   **Tools & Platforms:** Git, Docker, AWS, Netlify, Vercel, AI
--   **Design:** Figma
 
 </td>
 <td width="65%" valign="top">
