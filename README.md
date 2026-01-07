@@ -24,9 +24,9 @@
 ### 🚀 My Tech Stack
 
 -   **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
--   **Backend:** Node.js, Express.js, Python, PHP
+-   **Backend:** Node.js, Express.js, Python
 -   **Databases:** MongoDB, MySQL
--   **Tools & Platforms:** Git, Docker, AWS, Netlify, Vercel, AI
+-   **Tools & Platforms:** Git, Docker, AWS, Netlify, Vercel
 
 </td>
 <td width="65%" valign="top">
