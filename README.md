@@ -14,7 +14,7 @@
 ### 📫 Let's Connect!
 
 - **LinkedIn:** [Mafabi Hussein](www.linkedin.com/in/mafabi-hussein-7a8a2436b)
-- **Twitter:** [@cson_of_antonn](https://twitter.com/son_of_antonn)
+- **Twitter:** [@son_of_antonn](https://twitter.com/son_of_antonn)
 - **Email:** husseintech256@gmail.com
 
 > "You need it built? I'll build it. You need it fixed? Say less."
