@@ -23,9 +23,9 @@
 
 ### 🚀 My Tech Stack
 
--   **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
--   **Backend:** Node.js, Express.js, Python
--   **Databases:** MongoDB, MySQL
+-   **Frontend:** HTML5, CSS3, JavaScript (ES6+)/Typescript, React.js
+-   **Backend:** Node.js, Next.js, Express.js, Python, Fast API
+-   **Databases:** PostgreSQL, MongoDB, MySQL, Supabase
 -   **Tools & Platforms:** Git, Docker, AWS, Netlify, Vercel
 
 </td>
