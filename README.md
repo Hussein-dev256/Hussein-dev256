@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hussein</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer/Indie Hacker</h3>
 
 ---
 
@@ -34,7 +34,7 @@
 ## Hi there, I'm Hussein 👋
 
 I'm a passionate Backend leaning fullstack Developer dedicated to solving real-world problems through technology.
-I build responsive websites, develop seamless web applications and architect fully functional systems that don’t just work — they solve real-world problems. I specialize in crafting user-first digital solutions with clean code, smart design, and practical impact.
+I build responsive websites, develop seamless web applications and architect fully functional systems that don’t just work — they solve real-world problems. I specialize in crafting user-first digital solutions with clean code, smart design and practical impact.
 
 At the heart of my work is a deep passion for using technology to make everyday life simpler, smarter and more connected especially in underrepresented regions like Uganda. From web interfaces to backend systems, I approach each build with clarity, curiosity, and purpose.
 
