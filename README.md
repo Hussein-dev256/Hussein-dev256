@@ -58,7 +58,10 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 
 ### 📊 My GitHub Stats
 
-![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussein-dev256&show_icons=true&theme=radical&layout=compact)
+![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussein-dev256&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-dev256&layout=compact&theme=radical)
+
 
 </td>
 </tr>
