@@ -31,7 +31,7 @@
 </td>
 <td width="65%" valign="top">
 
-## Hi there, I'm Hussein 👋
+## Hi there, I'm Hussein 
 
 I'm a passionate Backend leaning fullstack Developer dedicated to solving real-world problems through technology.
 I build responsive websites, develop seamless web applications and architect fully functional systems that don’t just work — they solve real-world problems. I specialize in crafting user-first digital solutions with clean code, smart design and practical impact.
