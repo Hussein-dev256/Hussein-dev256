@@ -7,65 +7,62 @@
 </p>
 
 <h1 align="center">Hussein</h1>
-<h3 align="center">Full Stack Developer/Indie Hacker</h3>
+<h3 align="center">Software Developer | Backend-Focused</h3>
 
 ---
 
 ### 📫 Let's Connect!
 
-- **LinkedIn:** [Mafabi Hussein](www.linkedin.com/in/mafabi-hussein-7a8a2436b)
-- **Twitter:** [@son_of_antonn](https://twitter.com/son_of_antonn)
-- **Email:** husseintech256@gmail.com
+* **LinkedIn:** [Mafabi Hussein](https://www.linkedin.com/in/mafabi-hussein-7a8a2436b/)
+* **X:** [@son_of_antonn](https://x.com/son_of_antonn)
+* **Email:** [husseintech256@gmail.com](mailto:husseintech256@gmail.com)
 
 > "You need it built? I'll build it. You need it fixed? Say less."
 
 ---
 
-### 🚀 My Tech Stack
+### 🚀 Tech Stack
 
--   **Frontend:** HTML5, CSS3, JavaScript (ES6+)/Typescript, React.js
--   **Backend:** Node.js, Next.js, Express.js, Python, Fast API
--   **Databases:** PostgreSQL, MySQL, Supabase, NoSQL, Mongo DB
--   **Tools & Platforms:** Git, Docker, AWS, Netlify, Vercel, Render, Railway
+* **Languages:** TypeScript, JavaScript, Python
+* **Frontend:** React, Next.js, HTML5, CSS3
+* **Backend:** Node.js, Express.js, FastAPI
+* **Databases:** PostgreSQL, MySQL, Supabase
+* **Tools & Platforms:** Git, GitHub, Vercel, Render, Railway
 
 </td>
 <td width="65%" valign="top">
 
-## Hi there, I'm Hussein 
+## Hi there, I'm Hussein 👋
 
-I'm a passionate Backend leaning fullstack Developer dedicated to solving real-world problems through technology.
-I build responsive websites, develop seamless web applications and architect fully functional systems that don’t just work — they solve real-world problems. I specialize in crafting user-first digital solutions with clean code, smart design and practical impact.
+I'm a Software Developer with a backend focus and hands-on experience building applications across the stack.
 
-At the heart of my work is a deep passion for using technology to make everyday life simpler, smarter and more connected especially in underrepresented regions like Uganda. From web interfaces to backend systems, I approach each build with clarity, curiosity and purpose.
+I work across frontend development, backend services, APIs, databases, authentication, integrations, and deployment. I use technologies such as React, Next.js, TypeScript, Node.js, Python, FastAPI, PostgreSQL, and MySQL to turn requirements into working software.
 
-One of my proudest projects is Visual_AI, an AI powered cross platfrom tool that uses Mobile Net-V3 lite for local inference on device. It is built using Python Fast API and C++ for image processing and perfomance critical parts. Another one is the ROI based image identification Android application, an image identification app I designed and built to help users in rural areas recognize common plants, objects and animals using just their phone camera. It's a direct example of how I combine code with context and turn local challenges into tech-powered solutions.
-
-My expertise lies in crafting exceptional digital experiences, from **building responsive, user-friendly websites** to developing **seamless applications** and **fully functional, scalable systems**. I thrive on turning complex ideas into reality with clean, efficient, and maintainable code. I don’t just build apps — I build tools people depend on. Let’s work together and bring the next one to life. 
+My work includes real-world client projects, academic systems, personal projects, and software products I'm actively developing. I enjoy working across the stack, with a particular interest in backend development, APIs, databases, and system design.
 
 ---
 
-### 🔧 My Projects
+### 🔧 Selected Projects
 
-Here are some of the projects I'm proud of. You can find more on my repositories tab!
+| Project                                                              | Description                                                                                                                                                            | Tech Stack                                                |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| **[Oakley Glasses Store](https://oakley-store.vercel.app/)**         | A real-world multi-role e-commerce platform built for a client, with separate customer and vendor PWAs backed by a shared system for products, orders, and operations. | React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase |
+| **[ObjectID](https://webdemo-frontend.vercel.app/)**                 | Image recognition application developed as a final-year project. Users can select a region of interest and identify objects through an image recognition API.          | React, TypeScript, API                                    |
+| **[AWIHF](https://acholiwomeninhealth.org/)**                        | Website developed for Acholi Women in Health Forum to support the organization's online presence and content.                                                          | Next.js, TypeScript                                       |
+| **[Portfolio Website](https://mhussein.vercel.app/)**                | Personal portfolio showcasing selected development work and projects.                                                                                                  | Next.js, TypeScript                                       |
+| **[Visual_AI](https://github.com/Hussein-dev256/Visual_AI)**         | Computer vision project exploring image identification with machine learning and performance-focused processing.                                                       | Python, FastAPI, TensorFlow, C++, Flutter                 |
+| **[Valentine's App](https://webdeveloperug-valentines.vercel.app/)** | A small interactive PWA built as a playful web experience.                                                                                                             | React, TypeScript, PostgreSQL, Supabase                   |
 
-| Project                                                      | Description                                                                 | Tech Stack                               |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------- | ---------------------------------------- |
-| **[Portfolio Website](https://mhussein.vercel.app/)** | My personal portfolio to showcase my skills and projects.                 | HTML, CSS, JavaScript                    |
-| **[ObjectID ](https://webdemo-frontend.vercel.app/)** | A powerful Andfroid application that leverages machine learning to identify objects within images using a Region of Interest annotation with high accuracy. This project demonstrates my ability to integrate complex backend logic with an intuitive user interface to solve practical challenges. | Kotlin, Android SDK, Imagga API         |
-| **[Oakley Glasses Store](https://oakley-store.vercel.app/)**                                             |IN PROGRESS- A multi role e-commerce solution for Oakley Store, which has a clent PWA, Vendor PWA & a single backend.           | React, Node.js, PostgreSQL + Supabase, Typescript                  |
-| **[Visual_AI](https://github.com/Hussein-dev256/Visual_AI)** | An AI powered tool for identifying items from images through local on-device inference using Mobile Net V3 lite. This project showcases my ability to leverege AI/ML to solve practical real world problems using computer vision | Python, TensorFlow, C++, Flutter
-| **[Valentine's App](https://webdeveloperug-valentines.vercel.app/)** | A PWA tool that lets users ask out other people for valentine's.| React, TypeScript, Postgres, Supabase
+> **Note:** Some live projects use free-tier hosting and may take a few seconds to wake after a period of inactivity.
+
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
-![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussein-dev256&show_icons=true&theme=radical)
+![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussein-dev256\&show_icons=true\&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-dev256&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-dev256\&layout=compact\&theme=radical)
 
 </td>
 </tr>
 </table>
-
-
